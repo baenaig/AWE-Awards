@@ -1,4 +1,4 @@
-# AWE-Awards
+# AWE-Awards Application Submission
 April 4th, 2023
 
 Welcome to the Future of Training, a mixed reality application that is boundless, mobile, immersive, and collaborative, bringing new insight and perspective to the world of sports training and coaching. 
